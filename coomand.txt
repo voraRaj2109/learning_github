@@ -2,3 +2,7 @@ hello
 this file is 
 txt file 
 and try to push in github 
+
+now modified this file 
+and try to u;pload in git hub file 
+use this upload file 
